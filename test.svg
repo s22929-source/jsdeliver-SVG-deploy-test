@@ -1,3 +1,1 @@
-<svg width="50" height="50">
-  <use href="https://cdn.jsdelivr.net/gh/lucideproxy/svg@latest/logo.svg#logo"></use>
-</svg>
+<img src="https://cdn.jsdelivr.net/gh/lucideproxy/svg@latest/logo.svg" alt="Logo" width="100" height="100">
